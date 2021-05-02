@@ -16,5 +16,8 @@
     "**/node_modules": true
   },
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
-  "vscodeMarkdownNotes.slugifyMethod": "github-slugger"
+  "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
+  "cSpell.words": [
+    "datalink"
+  ]
 }
