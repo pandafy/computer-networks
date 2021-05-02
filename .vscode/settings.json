@@ -19,5 +19,6 @@
   "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
   "cSpell.words": [
     "datalink"
-  ]
+  ],
+  "foam.edit.linkReferenceDefinitions": "withoutExtensions"
 }
